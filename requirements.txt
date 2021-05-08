@@ -1,0 +1,16 @@
+gym
+tqdm
+typing
+box2d
+box2d-py
+tensorboard
+atari-py
+gym[atari]
+opencv-python
+absl-py
+imageio
+keras
+seaborn
+pandas
+matplotlib
+imageio
